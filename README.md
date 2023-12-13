@@ -33,14 +33,15 @@ The sample dataset contains the images and masks required for training. Examples
 and masks used in training are shown below:
 
 ### Input Image
-![Input_Image](https://github.com/jiyooonp/Crop-Lane-Detection/blob/main/sample_dataset/images/frame000000.png?raw=True)
+![frame000000](https://github.com/jiyooonp/Crop-Lane-Detection/assets/15799964/785923ca-b7c1-4053-957f-4d93c36d06d7)
 
 ### Ground Truth Mask
-![](./sample_dataset/masks/frame000000_mask.png)
+
+![frame000000_mask](https://github.com/jiyooonp/Crop-Lane-Detection/assets/15799964/ee575a78-e65a-4230-bcce-4278c437c64e)
 
 ### Test Outputs from Trained Model
 
-![](./sample_dataset/unet_output.jpeg)
+![unet_output](https://github.com/jiyooonp/Crop-Lane-Detection/assets/15799964/2f80ae68-8390-49ef-ac52-7242bfb20b1d)
 
 ## Reference Implementation
 
