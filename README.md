@@ -33,7 +33,7 @@ The sample dataset contains the images and masks required for training. Examples
 and masks used in training are shown below:
 
 ### Input Image
-![](./sample_dataset/images/frame000000.png)
+![](https://github.com/jiyooonp/Crop-Lane-Detection/blob/main/sample_dataset/images/frame000000.png)
 
 ### Ground Truth Mask
 ![](./sample_dataset/masks/frame000000_mask.png)
